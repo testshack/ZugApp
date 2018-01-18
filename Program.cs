@@ -1,13 +1,12 @@
-using System;
+﻿using System;
 
 namespace ZugApp
 {
     class Program
     {
-
-        static void Main (string[] args) 
+        static void Main(string[] args)
         {
-            Console.Writeline("Hello world!");
-        }    
+            Console.WriteLine("Hello World!");
+        }
     }
 }
